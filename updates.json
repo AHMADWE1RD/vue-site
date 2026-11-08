@@ -1,0 +1,25 @@
+{
+  "product": "VUE",
+  "releaseChannel": "stable",
+  "updated": "2026-11-08",
+  "source": "/",
+  "installRequiresUserConfirmation": true,
+  "platforms": {
+    "androidTv": {
+      "version": "1.60.32",
+      "package": "APK",
+      "download": "downloads/VUE-Android-TV-latest.apk",
+      "sha256": "27c6e807ca7ec84c5bcb31ab05229d79c5c86397baa9c66a93e5f1184fd631a6"
+    },
+    "lgWebOS": {
+      "version": "1.58.11",
+      "package": "IPK",
+      "download": "downloads/VUE-LG-webOS-latest.ipk",
+      "sha256": "2e01fa7e261431993d18d5d2d9fc846593d0f50d026d6ccec8684880cfd1d88a"
+    },
+    "samsungTizen": {
+      "available": false,
+      "note": "إصدار Tizen غير متاح بعد"
+    }
+  }
+}
